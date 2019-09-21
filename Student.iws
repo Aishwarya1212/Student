@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5b2f9fe4-1d3d-477e-be7b-aa9976a30e0d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Student.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Student.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Student.iws" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/header.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logo.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Student/Connect/MyConnect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Student/META-INF/Student.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/Admin/Admin$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/Admin/Admin$ButtonEditor$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/Admin/Admin$ButtonEditor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/Admin/Admin$DeleteEditor$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/Admin/Admin$DeleteEditor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/Admin/Admin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/Admin/Edit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/Admin/Register.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/Login.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/accountant/AccEdit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/accountant/Account$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/accountant/Account$ButtonEditor$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/accountant/Account$ButtonEditor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/accountant/Account.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/accountant/DueList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/accountant/PaidList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/library/AddBook.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/library/Issue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/library/IssueList$ButtonEditor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/library/IssueList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/library/Library$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/library/Library$ButtonEditor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/library/Library.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/library/ReturnLib.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/library/StatusException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/studentLogin/StuLogin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/studentLogin/StudentLogin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/studentLogin/ViewResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/teacher/EditMarks.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/teacher/Teacher$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/teacher/Teacher$ButtonEditor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/teacher/Teacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/teacher/View.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/teacher/resultException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/utility/ButtonRender.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/utility/Common.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/utility/Factory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/utility/Instance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/utility/JFrameSize.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/utility/LoginInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photo.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Connect/MyConnect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/student/management/Admin/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/student/management/Admin/Edit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/student/management/Admin/Register.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/student/management/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/student/management/accountant/AccEdit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/student/management/accountant/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/student/management/accountant/DueList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/student/management/accountant/PaidList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/student/management/library/AddBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/student/management/library/Issue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/student/management/library/IssueList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/student/management/library/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/student/management/library/ReturnLib.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/student/management/library/StatusException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/student/management/studentLogin/StuLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/student/management/studentLogin/StudentLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/student/management/studentLogin/ViewResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/student/management/teacher/EditMarks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/student/management/teacher/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/student/management/teacher/View.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/student/management/teacher/resultException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/student/management/utility/ButtonRender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/student/management/utility/Common.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/student/management/utility/Factory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/student/management/utility/Instance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/student/management/utility/JFrameSize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/student/management/utility/LoginInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/student/management/utility/TableManager.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1R0HIfx1qicXcrN63Qp6uT2Y0r5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mysql-connector-java-5.1.48-bin.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="student.management.library" />
+      <recent name="student.management.teacher" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Login">
+    <configuration name="Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="student.management.Login" />
+      <module name="Student" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="student.management.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StuLogin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="student.management.studentLogin.StuLogin" />
+      <module name="Student" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="student.management.studentLogin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Teacher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="student.management.teacher.Teacher" />
+      <module name="Student" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="student.management.teacher.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="View" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="student.management.teacher.View" />
+      <module name="Student" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="student.management.teacher.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ViewResult" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="student.management.studentLogin.ViewResult" />
+      <module name="Student" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="student.management.studentLogin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Login" />
+        <item itemvalue="Application.View" />
+        <item itemvalue="Application.Teacher" />
+        <item itemvalue="Application.ViewResult" />
+        <item itemvalue="Application.StuLogin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b2f9fe4-1d3d-477e-be7b-aa9976a30e0d" name="Default Changelist" comment="" />
+      <created>1568797014256</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568797014256</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
