@@ -207,7 +207,7 @@ public class Library extends JFrame implements LoginInterface
 
     }
 
-    public static void main(String[] args) {
+   /* public static void main(String[] args) {
         new Library();
-    }
+    }*/
 }

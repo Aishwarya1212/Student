@@ -98,7 +98,7 @@ public class DueList extends JFrame
         }
     }
 
-    public static void main(String[] args) throws SQLException, ClassNotFoundException {
+    /*public static void main(String[] args) throws SQLException, ClassNotFoundException {
         new DueList();
-    }
+    }*/
 }

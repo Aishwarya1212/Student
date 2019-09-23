@@ -101,9 +101,7 @@ public class Teacher extends JFrame implements LoginInterface
         Common.define(this);
     }
 
-    public static void main(String[] args) {
-       new Teacher();
-    }
+
 
     @Override
     public void getModel() {
@@ -196,5 +194,9 @@ public class Teacher extends JFrame implements LoginInterface
         }
 
     }
+
+    /*public static void main(String[] args) {
+        new Teacher();
+    }*/
 
 }

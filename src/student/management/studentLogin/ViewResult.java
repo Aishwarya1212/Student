@@ -138,7 +138,7 @@ public class ViewResult extends JFrame
             ex.printStackTrace();
         }
     }
-    public static void main(String[] args) throws SQLException, ClassNotFoundException {
+   /* public static void main(String[] args) throws SQLException, ClassNotFoundException {
         new ViewResult("ram");
-    }
+    }*/
 }

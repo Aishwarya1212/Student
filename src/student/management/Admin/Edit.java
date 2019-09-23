@@ -166,7 +166,7 @@ public class Edit extends JFrame
         }
     }
 
-    public static void main(String[] args) throws SQLException, ClassNotFoundException {
+   /* public static void main(String[] args) throws SQLException, ClassNotFoundException {
         Edit e = new Edit("ram");
-    }
+    }:*/
 }

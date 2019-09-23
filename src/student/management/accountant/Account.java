@@ -214,7 +214,7 @@ public class Account extends JFrame implements LoginInterface
 
     }
 
-    public static void main(String[] args) {
+    /*public static void main(String[] args) {
         new Account();
-    }
+    }*/
 }

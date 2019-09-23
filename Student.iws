@@ -2,83 +2,52 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b2f9fe4-1d3d-477e-be7b-aa9976a30e0d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Student.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Student.ipr" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Student.iws" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/header.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logo.jfif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Student/Connect/MyConnect.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Student/META-INF/Student.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/Admin/Admin$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/Admin/Admin$ButtonEditor$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/Admin/Admin$ButtonEditor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/Admin/Admin$DeleteEditor$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/Admin/Admin$DeleteEditor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/Admin/Admin.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/Admin/Edit.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/Admin/Register.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/Login.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/accountant/AccEdit.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/accountant/Account$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/accountant/Account$ButtonEditor$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/accountant/Account$ButtonEditor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/accountant/Account.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/accountant/DueList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/accountant/PaidList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/library/AddBook.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/library/Issue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/library/IssueList$ButtonEditor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/library/IssueList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/library/Library$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/library/Library$ButtonEditor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/library/Library.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/library/ReturnLib.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/library/StatusException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/studentLogin/StuLogin.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/studentLogin/StudentLogin.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/studentLogin/ViewResult.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/teacher/EditMarks.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/teacher/Teacher$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/teacher/Teacher$ButtonEditor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/teacher/Teacher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/teacher/View.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/teacher/resultException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/utility/ButtonRender.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/utility/Common.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/utility/Factory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/utility/Instance.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/utility/JFrameSize.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Student/student/management/utility/LoginInterface.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photo.jfif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Connect/MyConnect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/student/management/Admin/Admin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/student/management/Admin/Edit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/student/management/Admin/Register.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/student/management/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/student/management/accountant/AccEdit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/student/management/accountant/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/student/management/accountant/DueList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/student/management/accountant/PaidList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/student/management/library/AddBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/student/management/library/Issue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/student/management/library/IssueList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/student/management/library/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/student/management/library/ReturnLib.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/student/management/library/StatusException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/student/management/studentLogin/StuLogin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/student/management/studentLogin/StudentLogin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/student/management/studentLogin/ViewResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/student/management/teacher/EditMarks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/student/management/teacher/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/student/management/teacher/View.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/student/management/teacher/resultException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/student/management/utility/ButtonRender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/student/management/utility/Common.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/student/management/utility/Factory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/student/management/utility/Instance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/student/management/utility/JFrameSize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/student/management/utility/LoginInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/student/management/utility/TableManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/student/management/accountant/feeException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Student.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Student.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Student.iws" beforeDir="false" afterPath="$PROJECT_DIR$/Student.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Student/Connect/MyConnect.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Student/Connect/MyConnect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Student/student/management/Admin/Admin$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Student/student/management/Admin/Admin$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Student/student/management/Admin/Admin$ButtonEditor$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Student/student/management/Admin/Admin$ButtonEditor$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Student/student/management/Admin/Admin$ButtonEditor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Student/student/management/Admin/Admin$ButtonEditor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Student/student/management/Admin/Admin$DeleteEditor$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Student/student/management/Admin/Admin$DeleteEditor$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Student/student/management/Admin/Admin$DeleteEditor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Student/student/management/Admin/Admin$DeleteEditor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Student/student/management/Admin/Admin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Student/student/management/Admin/Admin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Student/student/management/Admin/Edit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Student/student/management/Admin/Edit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Student/student/management/Admin/Register.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Student/student/management/Admin/Register.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Student/student/management/accountant/AccEdit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Student/student/management/accountant/AccEdit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Student/student/management/accountant/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Student/student/management/accountant/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Student/student/management/accountant/DueList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Student/student/management/accountant/DueList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Student/student/management/accountant/PaidList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Student/student/management/accountant/PaidList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Student/student/management/library/AddBook.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Student/student/management/library/AddBook.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Student/student/management/library/Issue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Student/student/management/library/Issue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Student/student/management/library/IssueList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Student/student/management/library/IssueList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Student/student/management/library/Library.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Student/student/management/library/Library.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Student/student/management/library/ReturnLib.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Student/student/management/library/ReturnLib.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Student/student/management/studentLogin/StuLogin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Student/student/management/studentLogin/StuLogin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Student/student/management/studentLogin/ViewResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Student/student/management/studentLogin/ViewResult.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Student/student/management/teacher/EditMarks.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Student/student/management/teacher/EditMarks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Student/student/management/teacher/Teacher$ButtonEditor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Student/student/management/teacher/Teacher$ButtonEditor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Student/student/management/teacher/Teacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Student/student/management/teacher/Teacher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Student/student/management/teacher/View.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Student/student/management/teacher/View.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Student/student/management/utility/Common.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Student/student/management/utility/Common.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/student/management/Admin/Admin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/student/management/Admin/Admin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/student/management/Admin/Edit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/student/management/Admin/Edit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/student/management/Admin/Register.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/student/management/Admin/Register.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/student/management/accountant/AccEdit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/student/management/accountant/AccEdit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/student/management/accountant/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/student/management/accountant/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/student/management/accountant/DueList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/student/management/accountant/DueList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/student/management/accountant/PaidList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/student/management/accountant/PaidList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/student/management/library/AddBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/student/management/library/AddBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/student/management/library/Issue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/student/management/library/Issue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/student/management/library/IssueList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/student/management/library/IssueList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/student/management/library/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/student/management/library/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/student/management/library/ReturnLib.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/student/management/library/ReturnLib.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/student/management/studentLogin/StuLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/student/management/studentLogin/StuLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/student/management/studentLogin/ViewResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/student/management/studentLogin/ViewResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/student/management/teacher/EditMarks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/student/management/teacher/EditMarks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/student/management/teacher/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/student/management/teacher/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/student/management/teacher/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/student/management/teacher/View.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/student/management/utility/Common.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/student/management/utility/Common.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -138,8 +107,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StuLogin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="student.management.studentLogin.StuLogin" />
+    <configuration name="StudentLogin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="student.management.studentLogin.StudentLogin" />
       <module name="Student" />
       <extension name="coverage">
         <pattern>
@@ -193,10 +162,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Login" />
+        <item itemvalue="Application.StudentLogin" />
         <item itemvalue="Application.View" />
         <item itemvalue="Application.Teacher" />
         <item itemvalue="Application.ViewResult" />
-        <item itemvalue="Application.StuLogin" />
       </list>
     </recent_temporary>
   </component>
@@ -211,6 +180,14 @@
       <option name="presentableId" value="Default" />
       <updated>1568797014256</updated>
     </task>
+    <task id="LOCAL-00001" summary="student management system commit">
+      <created>1569075165682</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1569075165682</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -218,10 +195,18 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="student management system commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="student management system commit" />
   </component>
 </project>

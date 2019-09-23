@@ -128,7 +128,7 @@ public class Register extends JFrame
         Common.define(this);
     }
 
-    public static void main(String[] args) {
+    /*public static void main(String[] args) {
         new Register();
-    }
+    }*/
 }

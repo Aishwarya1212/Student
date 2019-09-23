@@ -121,8 +121,12 @@ public class AccEdit extends JFrame
             t6.setText(String.valueOf(due1));
             String due = t6.getText();
             String user = t7.getText(); String pass= p.getText();
-            Common.validEmp(id,name,email,total,paid,due,user,pass);
-            Instance.update(id,name,email,total,paid,due,user,pass);
+            boolean b= Common.validEmp(id,name,email,total,paid,due,user,pass);
+            if(b==true)
+            {
+                Instance.update(id,name,email,total,paid,due,user,pass);
+            }
+
         } });
 
         b2 = new JButton("Back");
@@ -165,7 +169,7 @@ public class AccEdit extends JFrame
     }
 
 
-    public static void main(String[] args) throws SQLException, ClassNotFoundException {
+   /* public static void main(String[] args) throws SQLException, ClassNotFoundException {
        new AccEdit("ram");
-    }
+    }*/
 }

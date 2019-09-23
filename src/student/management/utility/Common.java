@@ -1,9 +1,9 @@
 package student.management.utility;
 
 
+import student.management.accountant.feeException;
+
 import javax.swing.*;
-import javax.swing.event.ListSelectionEvent;
-import javax.swing.event.ListSelectionListener;
 import java.awt.*;
 import java.awt.event.WindowEvent;
 import java.util.regex.Matcher;
@@ -57,6 +57,17 @@ public class Common {
         Matcher matcher = pattern.matcher(email);
         Boolean evaild= matcher.matches();
 
+      int extra = Integer.parseInt(paid)+Integer.parseInt(due);
+      int tot = Integer.parseInt(total);
+
+      if(extra > tot)
+      {
+          try {
+              throw new feeException();
+          } catch (feeException ex) {
+              ex.printStackTrace();
+          }
+      }
 
         boolean fvalid =total.matches("[0-9]{1,10}");
 
@@ -69,6 +80,7 @@ public class Common {
         {
             JOptionPane.showMessageDialog(null, " Please Enter in all fields", "Error", JOptionPane.ERROR_MESSAGE);
         }
+
 
         else if(idvalid==false)
         {
